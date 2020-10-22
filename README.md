@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-
+I'm Can from Turkey, and I do content on Desing and Game Development. I Really enjoy learning languages and frameworks like.
+You can check out my twitter at twitter.com/tgfcb or youtube.com/zeomarinoCG or discord.gg/BUGRWMY
 
 
 ### Merhabalar 👋
