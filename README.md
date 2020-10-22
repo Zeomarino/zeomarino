@@ -1,7 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Zeo Marino
+#### Desing And Game Development
+![Desing And Game Development](https://cdn.discordapp.com/attachments/726192658057527377/768775074923937792/maxresdefault.jpg)
 
-I'm Can from Turkey, and I do content on Desing and Game Development. I Really enjoy learning languages and frameworks like.
-You can check out my twitter at twitter.com/tgfcb or youtube.com/zeomarinoCG or discord.gg/BUGRWMY
+I'm Can from Turkey, and I do content on Desing and Game Development. I Really enjoy learning languages and frameworks like. You can check out my twitter at twitter.com/tgfcb or youtube.com/zeomarinoCG or discord.gg/BUGRWMY
+
+
+
+Skills: VUE JS / JS / HTML / CSS /C# / LUA / KOTLİN / PYTHON / C++
+
+- 🔭 I’m currently working on this page. 
+
 
 
 ### Merhabalar 👋
