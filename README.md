@@ -3,6 +3,9 @@
 
 I'm Can from Turkey, and I do content on Desing and Game Development. I Really enjoy learning languages and frameworks like. 
 
+### Merhabalar 👋
+Benim adım Can Türkiyede yaşıyorum.  25 Yaşındayım Sıkı bir gamerim ve bu sebepten kodlama genelde game dev ile uraşıyorum. Bazı projelerimde öğrenmeyi not tuttum dolayısıyla bazı projelerimizi incelersiniz içerisinde açıklamalar bulabilirsiniz.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeomarino)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeomarino&show_icons=true&count_private=true)  
@@ -14,5 +17,4 @@ I'm Can from Turkey, and I do content on Desing and Game Development. I Really e
 
 
 
-### Merhabalar 👋
-Benim adım Can Türkiyede yaşıyorum.  25 Yaşındayım Sıkı bir gamerim ve bu sebepten kodlama genelde game dev ile uraşıyorum. Bazı projelerimde öğrenmeyi not tuttum dolayısıyla bazı projelerimizi incelersiniz içerisinde açıklamalar bulabilirsiniz.
+
