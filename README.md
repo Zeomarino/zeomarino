@@ -4,8 +4,7 @@
 
 I'm Can from Turkey, and I do content on Desing and Game Development. I Really enjoy learning languages and frameworks like. 
 
-## Marinov Community
-<img src =" https://cdn.discordapp.com/attachments/732058738722209895/766643214253293608/SPOILER_ezgif.com-video-to-gif.gif " width="250" >
+
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zeomarino)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/TGFCB)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zeomarino.offical/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Tgfcb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discover.svg' alt='discover' height='40'>](https://discord.gg/BUGRWMY)  
