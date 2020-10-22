@@ -2,7 +2,7 @@
 ![](https://cdn.discordapp.com/attachments/726192658057527377/768782381183401984/1586320.jpg)
 
 ### Hi there Ⓜ️
-My name is Can , I am living in Turkey. I am 25 years old and I love play video games thats why Im learning programming and trying to be a game developer.To get more detail you can review notes in my projects.I really enjoy when Im learning programing(languages,framework) and Enjoy and love it.
+My name is Can , I am living in Turkey. I am 25 years old and I love play video games thats why Im learning programming and trying to be a game developer.To get more detail you can review notes in my projects.I really enjoy and love it, when Im learning programing(languages,framework)
 
 
 ### Merhabalar Ⓜ️
