@@ -1,4 +1,4 @@
-### Hi there 👋, Zeo Marino
+
 ![](https://cdn.discordapp.com/attachments/726192658057527377/768782381183401984/1586320.jpg)
 
 I'm Can from Turkey, and I do content on Desing and Game Development. I Really enjoy learning languages and frameworks like. 
