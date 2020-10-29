@@ -10,7 +10,9 @@ Benim adım Can Türkiyede yaşıyorum.  25 Yaşındayım Sıkı bir gamerim ve 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeomarino)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeomarino&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeomarino&show_icons=true&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 
 
 
